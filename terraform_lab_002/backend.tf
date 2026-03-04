@@ -3,6 +3,6 @@ terraform {
     bucket        = "terraformbucketbackend01"
     key           = "dev/terraform.tfstate"
     region        = "ap-south-1"
-    
+  
   }
 }

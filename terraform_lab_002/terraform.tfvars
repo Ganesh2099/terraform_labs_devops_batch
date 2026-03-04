@@ -1,5 +1,5 @@
 instance_type  = "t3.small"
-instance_count = 2
+instance_count = 3
 bucket_name    = "myfirstbucket202600111"
 vpc_cidr       = "10.0.0.0/16"
 bucket_name01  = "myfirstbucket20260012111"
